@@ -1,0 +1,5 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - SUCCESS on EDA
+root - INFO - SUCCESS: encoding is successful for mean agg churns
+root - INFO - SUCCESS: Train and Test Split complete
+root - INFO - SUCCESS: Model is trained
